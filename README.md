@@ -7,6 +7,7 @@ sudo apt install zoom_amd64.deb
 ```
 ### Install firefail
 Adopted from: [https://wiki.ubuntuusers.de/firejail/](https://wiki.ubuntuusers.de/firejail/)
+
 Now you want to install the package `firefail` either fro the official repositories or by adding a ppa first.
 
 *Optional:*
@@ -20,7 +21,7 @@ sudo apt install firejail firejail-profiles
 ```
 
 ### Configure firejail sandbox for Zoom
-Adopted from: [https://about.gitlab.com/handbook/tools-and-tips/#zoom-on-linux-using-foss-firejail](https://about.gitlab.com/handbook/tools-and-tips/#zoom-on-linux-using-foss-firejail).
+Adopted from: [https://about.gitlab.com/handbook/tools-and-tips/#zoom-on-linux-using-foss-firejail](https://about.gitlab.com/handbook/tools-and-tips/#zoom-on-linux-using-foss-firejail)
 
 ```bash
 mkdir -p ~/.config/firejail/
