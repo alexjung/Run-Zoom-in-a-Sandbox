@@ -1,4 +1,7 @@
 # Run Zoom Application in a Sandbox
+
+**After some consideration and further research I recommend using the [Flatpak version of Zoom](https://flathub.org/apps/details/us.zoom.Zoom) rather than trying to sandbox it manually. I will leave the tutorial up for now as it may still be useful for some special cases or other programs than Zoom.**
+
 ## Ubuntu
 ### Install Zoom
 Download the client application from the [official website](https://zoom.us/download). Save the `.deb` package and install it:
